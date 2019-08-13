@@ -6,6 +6,11 @@
 // boolean value, and the likes property should have a value that is an 
 // array.Inside the array, include at least 4 values.
 let goodDoggo = {
+  name: "blue",
+  legs: 4,
+  tail: true,
+  likes: [ball, food, grass, dogs]
+
   //your code in here
 }
 
